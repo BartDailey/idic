@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+body{
+	background-image:url("images/startup-593336_1920.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: #d7effa;
+	
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li{
+	font-family: Philosopher;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+#projects{
+	background-color: #f4784a;
+	height: 1200px;
+	width:100%;
+	padding-top: 80px;
+	text-decoration: underline;
+}
+#tech{
+	background-color: darkcyan;
+	height:auto;
+	width: 100%;
+	padding-top: 80p;
+	text-decoration: underline
+}
+#pricing{
+	background-color: #fff;
+	height: auto;
+	padding-top: 80px;
+	width: 100%;
+	
+}
+#intro{
+	height:auto;
+	width: 100%;
+	
+}
+img{
+	padding: 5px;
+	margin: 0px;
+	
+	
+}
+
+	
+	
+	
+}
